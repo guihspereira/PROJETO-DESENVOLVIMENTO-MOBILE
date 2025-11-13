@@ -1,0 +1,7 @@
+{
+  "name": "Familia Financeira 3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
